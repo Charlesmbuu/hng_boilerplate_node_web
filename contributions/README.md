@@ -116,11 +116,9 @@ Contribution Guidelines
 - Commit your changes (git commit -m 'Add new feature').
 - Push to the branch (git push origin feature-branch).
 - Open a pull request.
+
 License
 This project is licensed under the MIT License.
-sql
-
-
 
 
 
